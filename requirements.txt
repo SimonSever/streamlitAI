@@ -1,4 +1,4 @@
-chromadb
+chromadb==0.4.15
 langchain
 docling
 sentence-transformers
