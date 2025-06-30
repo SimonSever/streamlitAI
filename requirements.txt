@@ -1,4 +1,5 @@
-chromadb==0.4.15
+pysqlite3-binary
+chromadb
 langchain
 docling
 sentence-transformers
