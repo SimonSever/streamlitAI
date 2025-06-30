@@ -1,0 +1,9 @@
+chromadb
+langchain
+docling
+sentence-transformers
+streamlit
+markdown
+langchain-experimental 
+langchain-huggingface
+scipy
